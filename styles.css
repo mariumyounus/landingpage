@@ -72,9 +72,10 @@ margin: 0;
     column-count: 2;
 }
 .gallery img{
-    width:80%
+  width:80%;
 }
 .details{
+    
     color:black;
 }
 .color{
